@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigaatio</string>
+    <string name="settings">Asetukset</string>
+    <string name="navigation_drawer_open">Avaa valikko</string>
+    <string name="navigation_drawer_close">Sulje Valikko</string>
+    <string name="text">Teksti ruutu</string>
+    <string name="allow_edit">Salli muokkaus</string>
+    <string name="deny_edit">Kiellä muokkaus</string>
+    <string name="write_here">Kirjoita tähän</string>
+    <string name="textwritten">Kirjoitettu teksti:</string>
+    <string name="back">Takaisin</string>
+    <string name="font_colour">Fontin väri:</string>
+    <string name="input_name">Syötetty nimi:</string>
+    <string name="font_size">Tekstikoko</string>
+    <string name="Username">Teksti ruutu</string>
+    <string name="language">Language:</string>
+    <string name="font_style">Font Style:</string>
+    <string name="font_bolding">Font Bolding:</string>
+    <string-array name="font_colors">
+        <item>Vihreä</item>
+        <item>Punainen</item>
+        <item>Sininen</item>
+        <item>Keltainen</item>
+        <item>Violetti</item>
+    </string-array>
+    <string-array name="Type">
+        <item>Normaali</item>
+        <item>Lihavoitu</item>
+        <item>Kursiivi</item>
+    </string-array>
+    <string-array name="Font">
+        <item>roboto</item>
+        <item>chunkfive</item>
+        <item>pacifico</item>
+        <item>greatvibes</item>
+    </string-array>
+    <string-array name="Languages">
+        <item>Suomi</item>
+        <item>Englanti</item>
+        <item>Ruotsi</item>
+    </string-array>
+</resources>

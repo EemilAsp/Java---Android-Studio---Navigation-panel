@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigering</string>
+    <string name="settings">Inställningar</string>
+    <string name="navigation_drawer_open">Öppna navigationslådan</string>
+    <string name="navigation_drawer_close">Stäng navigeringslådan</string>
+    <string name="text">Textfält</string>
+    <string name="allow_edit">Tillåt redigering</string>
+    <string name="deny_edit">Neka redigering</string>
+    <string name="write_here">Skriv här:</string>
+    <string name="textwritten">Text Skriven</string>
+    <string name="back">Tillbaka</string>
+    <string name="font_colour">Font Färg:</string>
+    <string name="input_name">Inmatat namn:</string>
+    <string name="font_size">Textstorlek:</string>
+    <string name="Username">Textvy</string>
+    <string name="language">Language:</string>
+    <string name="font_style">Font Style:</string>
+    <string name="font_bolding">Font Bolding:</string>
+    <string-array name="font_colors">
+        <item>Grön</item>
+        <item>Röd</item>
+        <item>Blå</item>
+        <item>Gul</item>
+        <item>Lila</item>
+    </string-array>
+    <string-array name="Type">
+        <item>vanligt</item>
+        <item>djärv</item>
+        <item>kursiv</item>
+    </string-array>
+    <string-array name="Font">
+        <item>roboto</item>
+        <item>chunkfive</item>
+        <item>pacifico</item>
+        <item>greatvibes</item>
+    </string-array>
+    <string-array name="Languages">
+        <item>Finska</item>
+        <item>Engelsk</item>
+        <item>Svenska</item>
+    </string-array>
+</resources>
